@@ -43,8 +43,17 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
 Stats
 https://github.com/anuraghazra/github-readme-stats
 -->
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=dark)](https://elliotkoh.gatsbyjs.io/)
 [![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=radical)](https://elliotkoh.gatsbyjs.io/)
-
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=merko)](https://elliotkoh.gatsbyjs.io/)
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=gruvbox)](https://elliotkoh.gatsbyjs.io/)
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=tokyonight)](https://elliotkoh.gatsbyjs.io/)
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=onedark)](https://elliotkoh.gatsbyjs.io/)
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=cobalt)](https://elliotkoh.gatsbyjs.io/)
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=synthwave)](https://elliotkoh.gatsbyjs.io/)
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=highcontrast)](https://elliotkoh.gatsbyjs.io/)
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=dracula)](https://elliotkoh.gatsbyjs.io/)
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=transparant)](https://elliotkoh.gatsbyjs.io/)
 <!---
 ProximoBinks/ProximoBinks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
