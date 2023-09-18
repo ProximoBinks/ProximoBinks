@@ -10,7 +10,7 @@
 
 Skills
 
-[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks)](https://github.com/ProximoBinks/github-readme-stats)
+[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=radical)](https://github.com/ProximoBinks/github-readme-stats)
 
 <!---
 ProximoBinks/ProximoBinks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
