@@ -44,7 +44,7 @@ Stats
 https://github.com/anuraghazra/github-readme-stats
 -->
 [![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=dark)](https://elliotkoh.gatsbyjs.io/)
-[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=radical)](https://elliotkoh.gatsbyjs.io/)
+<!--[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=radical)](https://elliotkoh.gatsbyjs.io/)
 [![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=merko)](https://elliotkoh.gatsbyjs.io/)
 [![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=gruvbox)](https://elliotkoh.gatsbyjs.io/)
 [![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=tokyonight)](https://elliotkoh.gatsbyjs.io/)
