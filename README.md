@@ -40,8 +40,10 @@
 ![Gmail]() without link
 [![Gmail]()]() with link
 https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
+Stats
+https://github.com/anuraghazra/github-readme-stats
 -->
-[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=radical)](https://github.com/ProximoBinks/github-readme-stats)
+![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=radical)
 
 <!---
 ProximoBinks/ProximoBinks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
