@@ -7,14 +7,7 @@
 - 🤟 Check out my socials here https://beacons.ai/Proximo
 
 <b>Skills</b>
-
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
-<img src="{https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white}" />
-<img src="{https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})(mailto:elliotkoh2@gmail.com)
 
 [![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=radical)](https://github.com/ProximoBinks/github-readme-stats)
 
