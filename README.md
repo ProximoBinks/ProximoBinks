@@ -6,6 +6,7 @@
 - ❤️‍🔥 My website https://elliotkoh.gatsbyjs.io/
 - 💙 My clothing brand https://projectbinks.square.site/
 - 📫 How to reach me elliotkoh2@gmail.com
+- 📖 My resume [here](https://github.com/ProximoBinks/ProximoBinks/blob/main/Resume-18-09-23-rev2.pdf)
 - 🤟 Check out my socials here https://beacons.ai/Proximo
 
 # <b>Skills</b>
