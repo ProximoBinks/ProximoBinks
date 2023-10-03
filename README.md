@@ -3,7 +3,7 @@
 - 👀 I’m interested in Custom Mechanical Keyboards and Coding
 - 🌱 I’m currently learning Algorithm Design & Data Structures, Computer Systems, Systems Programming, Web & Database Computing
 - 💞️ I’m looking to collaborate on any cool projects
-- ❤️‍🔥 My website https://elliotkoh.gatsbyjs.io/
+- ❤️‍🔥 My website https://elliotkoh.netlify.app/
 - 💙 My clothing brand https://projectbinks.square.site/
 - 📫 How to reach me elliotkoh2@gmail.com
 - 📖 My resume [here](https://github.com/ProximoBinks/ProximoBinks/blob/main/Resume-18-09-23-rev2.pdf)
