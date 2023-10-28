@@ -26,7 +26,7 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
+<!--
 # <b>Socials</b>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elliotkoh2@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/proximobinks)
@@ -37,15 +37,18 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/proximobinks)
 [![Valorant](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)](https://tracker.gg/valorant/profile/riot/Proximo%231234/overview)
 [![CSGO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://leetify.com/app/profile/76561199089732349)
+-->
+## LeetCode! ([profile](https://leetcode.com/proximobinks))
+[![Elliot's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=proximobinks&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-<!---
+<!--
 ![Gmail]() without link
 [![Gmail]()]() with link
 https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
 Stats
 https://github.com/anuraghazra/github-readme-stats
 -->
-<!---
+<!--
 [![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=dark)](https://elliotkoh.gatsbyjs.io/)
 
 <!--[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProximoBinks&show_icons=true&theme=radical)](https://elliotkoh.gatsbyjs.io/)
