@@ -38,10 +38,10 @@
 [![Valorant](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)](https://tracker.gg/valorant/profile/riot/Proximo%231234/overview)
 [![CSGO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://leetify.com/app/profile/76561199089732349)
 -->
-## LeetCode! ([profile](https://leetcode.com/proximobinks))
+<!--## LeetCode! ([profile](https://leetcode.com/proximobinks))
 <!--
 ![Elliot's GitHub stats](https://github-readme-stats-proximobinks.vercel.app/api?username=proximobinks&count_private=false&show_icons=true&theme=github_dark&cache_seconds=14400&show_icons)-->
-[![Elliot's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=proximobinks&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!--[![Elliot's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=proximobinks&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 ![Top Langs](https://github-readme-stats-proximobinks.vercel.app/api/top-langs/?username=proximobinks&theme=github_dark&cache_seconds=14400&show_icons&langs_count=10&layout=compact)-->
 <!--
