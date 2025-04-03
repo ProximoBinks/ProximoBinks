@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Elliot — Builder, Creator, Optimiser
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m Elliot — Builder, Creator, Optimiser
 
 I'm a developer and designer passionate about building meaningful tools, clean interfaces, and systems that elevate how we live and work. With a focus on clarity and intentional design, I take ideas from scratch and turn them into functional, well-crafted solutions that feel good to use.
 
