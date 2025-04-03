@@ -54,6 +54,13 @@ I'm a developer and designer passionate about building meaningful tools, clean i
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
+<img src="https://media1.tenor.com/m/7WEHdTYwcOUAAAAC/gengar-gengar-pokemon.gif">
+特別なひと言：
 
+今度の日本への大学交換留学に向けて、日本語の勉強を続けています！とても楽しみにしています！
+
+特に楽しみにしているのは、ポケモンカードショップやポケモンセンターを訪れることです。他にも、セブンイレブンでの食事や、富士山への観光、スキーなども楽しみです。
+
+何よりも、日本の文化を体験したり、サイバーパンクのような雰囲気が漂う東京の街を感じたりすることが一番の楽しみです！
 <!-- Archived academic info retained for context -->
 <!-- Course completion history available on request -->
