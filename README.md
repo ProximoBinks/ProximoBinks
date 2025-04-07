@@ -54,7 +54,7 @@ I'm a developer and designer passionate about building meaningful tools, clean i
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
-<img src="https://media1.tenor.com/m/7WEHdTYwcOUAAAAC/gengar-gengar-pokemon.gif">
+<img src="https://media1.tenor.com/m/7WEHdTYwcOUAAAAC/gengar-gengar-pokemon.gif" width="300px">
 特別なひと言：
 
 今度の日本への大学交換留学に向けて、日本語の勉強を続けています！とても楽しみにしています！
