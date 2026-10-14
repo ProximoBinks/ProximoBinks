@@ -2,19 +2,30 @@
 
 # Elliot Koh
 
-Solo software founder in Adelaide. I build apps I want to use, then put them in other people's hands.
+Solo software founder in Adelaide, running [HyperTools](https://hypertools.dev/). I build apps I want to use, then put them in other people's hands.
 
 Lately: small Mac apps, AI developer tools, and experiments on Solana. I care about how an app feels as much as how it works.
 
 [Website](https://elliotkoh.dev) · [X](https://x.com/elliotkohdev) · [Email](mailto:elliotkoh.dev@gmail.com)
 
-### Things I've shipped
+### Open source
 
 | Project | What it does |
 | :--- | :--- |
 | [**Todaytape**](https://github.com/ProximoBinks/todaytape) | Keeps today's Google Calendar on the edge of your Mac screen. |
 | [**Terminal Manager**](https://github.com/ProximoBinks/terminal-manager) | Finds your AI coding sessions, shows their RAM use, and lets you free them without losing the resume command. |
 | [**kanthropic**](https://github.com/ProximoBinks/kanthropic) | Learn hiragana and katakana while your coding agent thinks. |
+
+### On the web
+
+| Project | What I built |
+| :--- | :--- |
+| [**Mergelytics**](https://mergelytics.netlify.app/) | A team builder and strategy companion for Clash Royale Merge Tactics. |
+| [**Highway Fishing**](https://highway-fishing.vercel.app/) | A browser game about fishing from a speeding ute and dodging traffic. |
+| [**Specialist Plus**](https://www.specialistplus.com.au/) | Client website for a South Australian specialist medical practice. |
+| [**Simple Tuition**](https://simpletuition.com.au/) | Client website for Adelaide tutoring, UCAT, and medicine interview prep. |
+
+More products and client work at [HyperTools](https://hypertools.dev/).
 
 ### What I reach for
 
