@@ -8,12 +8,14 @@ Lately: small Mac apps, AI developer tools, and experiments on Solana. I care ab
 
 [Website](https://elliotkoh.dev) · [X](https://x.com/elliotkohdev) · [Email](mailto:elliotkoh.dev@gmail.com)
 
-### A couple of things I've shipped
+### Things I've shipped
 
 | Project | What it does |
 | :--- | :--- |
 | [**Todaytape**](https://github.com/ProximoBinks/todaytape) | Keeps today's Google Calendar on the edge of your Mac screen. |
 | [**Terminal Manager**](https://github.com/ProximoBinks/terminal-manager) | Finds your AI coding sessions, shows their RAM use, and lets you free them without losing the resume command. |
+
+| [**kanthropic**](https://github.com/ProximoBinks/kanthropic) | Learn hiragana and katakana while your coding agent thinks. |
 
 ### What I reach for
 
